@@ -8,6 +8,7 @@
   
 
 # Linux
-  - [Linux](https://blog.naver.com/kimmin2_/222115151717)
-  
   - [MARK DOWN](https://github.com/kim-mini/STUDY/blob/main/markdown.md)
+
+
+  - [Linux](https://blog.naver.com/kimmin2_/222115151717)
