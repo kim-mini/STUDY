@@ -1,14 +1,10 @@
 # STUDY
 
 ---
-# c언어
----
-- [c언어 - 1](https://blog.naver.com/kimmin2_/222095431707)
+# [PYTHON](https://blog.naver.com/kimmin2_/222115140755)
 
-  
+# [c language](https://blog.naver.com/kimmin2_/222095431707)
 
-# Linux
-  - [MARK DOWN](https://github.com/kim-mini/STUDY/blob/main/markdown.md)
+#[Data Structure](https://blog.naver.com/kimmin2_/222101710175)
 
-
-  - [Linux](https://blog.naver.com/kimmin2_/222115151717)
+# [Linux](https://blog.naver.com/kimmin2_/222115151717)
