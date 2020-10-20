@@ -2,7 +2,7 @@
 
 ---
 
-<span style="color:black"> ## [PYTHON](https://blog.naver.com/kimmin2_/222115140755) </span>
+## [PYTHON](https://blog.naver.com/kimmin2_/222115140755)
 
 ## [C language](https://blog.naver.com/kimmin2_/222095431707)
 
