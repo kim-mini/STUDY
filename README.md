@@ -10,3 +10,4 @@
 
 ## [Linux](https://blog.naver.com/kimmin2_/222115151717)
 
+## [RaspberryPi](https://blog.naver.com/kimmin2_/222121861332)
