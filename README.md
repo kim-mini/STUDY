@@ -22,9 +22,9 @@
 
 - [Vi](https://blog.naver.com/kimmin2_/222130191722)
 
-      [RaspberryPi](https://blog.naver.com/kimmin2_/222121861332)
+     [RaspberryPi](https://blog.naver.com/kimmin2_/222121861332)
 
-      [SQLite / Flask](https://blog.naver.com/kimmin2_/222131011476)
+     [SQLite / Flask](https://blog.naver.com/kimmin2_/222131011476)
       
 ---
 ### openCV
