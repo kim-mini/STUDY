@@ -1,5 +1,5 @@
 ### language
- ---
+
  
  - [Python](https://blog.naver.com/kimmin2_/222125231569)
  
@@ -16,7 +16,6 @@
  
  ### Linux
 
- ---
 
 - [Linux](https://blog.naver.com/kimmin2_/222108281196)
 
@@ -30,12 +29,15 @@
 ### openCV
 
 - [openCV](https://blog.naver.com/kimmin2_)
+
 ---
 ### Cloud
----
+
 - [Cloud](https://blog.naver.com/kimmin2_/222130171476)
 
 ---
 ## Markdown
----
+
 - [Markdown](https://github.com/kim-mini/STUDY/blob/main/markdown.md)
+
+---
