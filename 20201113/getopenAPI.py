@@ -6,7 +6,7 @@ from pandas.io.json import json_normalize
 
 import os
 
-# API 인증키 값 : 43446575696c637734334d537a5353
+# API 인증키 값 : 000000000000000000000000
 #
 # [ 입력 명세 ]
 # Key : STRING : 인증키 : OPENAPI에서 발급된 인증키
@@ -73,3 +73,8 @@ if __name__ == "__main__":
     jsonFile.write( json.dumps( json_object, ensure_ascii=False , indent = 4))
     jsonFile.close()
     
+
+    
+    
+    
+    #43446575696c637734334d537a5353
