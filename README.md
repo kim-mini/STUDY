@@ -41,3 +41,16 @@
 - [Markdown](https://github.com/kim-mini/STUDY/blob/main/markdown.md)
 
 ---
+
+
+## 2020-11-13
+
+
+```
+오늘은 data를 어떻게 활용하는지에 대하여 배웠다
+data를 자르고 붙이면서 원하는 값을 나오게 한다
+
+openApi를 받아서 가져오는 코드를 분석해보았다
+```
+
+[2020-11-13](https://github.com/kim-mini/STUDY/tree/main/20201113)
