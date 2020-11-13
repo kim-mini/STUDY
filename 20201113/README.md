@@ -78,3 +78,8 @@ def makeAPIURL( strKey, strType, strService, strSIndex, strEIndex, strStationNam
     jsonFile.close()
 
 ```
+
+이런식으로 json에 저장이 된다
+
+
+![](https://github.com/kim-mini/STUDY/blob/main/20201113/%EC%BA%A1%EC%B2%98.PNG)
