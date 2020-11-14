@@ -24,7 +24,8 @@
 - [RaspberryPi](https://blog.naver.com/kimmin2_/222121861332)
 
 - [SQLite / Flask](https://blog.naver.com/kimmin2_/222131011476)
-      
+   
+- [Datascience](https://m.blog.naver.com/PostList.nhn?blogId=kimmin2_&categoryNo=30)
 ---
 ### openCV
 
