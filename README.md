@@ -55,3 +55,14 @@ openApi를 받아서 가져오는 코드를 분석해보았다
 ```
 
 [2020-11-13](https://github.com/kim-mini/STUDY/tree/main/20201113)
+
+
+---
+
+## 2020-11-16
+
+```
+타이타닉의 탑승자들의 사망/생존의 예측하는 문제를 분석해보았다
+Scikit-learn에 대해 공부했다
+```
+[2020-11-16](https://github.com/kim-mini/STUDY/tree/main/20201116)
