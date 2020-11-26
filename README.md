@@ -98,3 +98,21 @@ pyqt5 공부를 했다
 구글 캘린더 API를 가져와서 캘린더와 연동시켰다
 ```
 <img src="https://postfiles.pstatic.net/MjAyMDExMjRfMjky/MDAxNjA2MjEwODg2NDY0.ll9QllKyBO2K7n5VzHW6TMoklalh332XDgAEQA3uyOsg.Gvu1LTh62Y-ZjG77bwwXr-hPSTheRL9JZEuLR74TBDsg.PNG.kimmin2_/image.png?type=w966" width="30%">
+
+---
+
+## 2020-11-25
+[2020-11-25 code](https://github.com/kim-mini/STUDY/tree/main/20201125)
+```
+pyqt5 공부를 했다
+digit clock을 만들고 배경색을 선택할수 있도록 했다
+단위환산하는 코드와 gui를 만들었다
+```
+
+---
+
+## 2020-11-26
+[2020-11-26 code]()
+```
+```
+---
