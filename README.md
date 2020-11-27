@@ -112,7 +112,23 @@ digit clock을 만들고 배경색을 선택할수 있도록 했다
 ---
 
 ## 2020-11-26
-[2020-11-26 code]()
+[2020-11-26 code](https://github.com/kim-mini/STUDY/tree/main/20201126)
 ```
+pyqt5로 gui를 만들고 단위 환산기르 완성했다
+사진을 편집 할 수 있는 간단한 프로그램 만들기
 ```
+<img src="https://blogfiles.pstatic.net/MjAyMDExMjVfMTk2/MDAxNjA2MzEyNDIzMTYz.usoHNZVk0RTF4irp7N9ln5OxjIexXnPVr4kKcficL_og.PG8pwrjTSlsBKdfzCrgHfAzcYkeqRRP9KfcVS16DBEUg.PNG.kimmin2_/SE-156c4746-b97f-4199-b528-5d04a4d75a27.png" width="30%">
+---
+
+
+## 2020-11-27
+[2020-11-27 code]()
+
+```
+사진 편집할 수 있는 프로그램 오류잡고 예외처리하기
+딥러닝수업을 시작했다
+```
+<img src="https://blogfiles.pstatic.net/MjAyMDExMjdfMTEy/MDAxNjA2NDU3MjAwNjAy.HBsTSFrEny0O8tCmNy5h6JZdbp6D2pvSbgUuKljAZ7wg.EymtSQsyVKUaMWMrlVPgSBJ0F84oxtcWkW5K8cvzGFAg.PNG.kimmin2_/image.png" width="30%">
+
+
 ---
