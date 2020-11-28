@@ -118,6 +118,8 @@ pyqt5로 gui를 만들고 단위 환산기르 완성했다
 사진을 편집 할 수 있는 간단한 프로그램 만들기
 ```
 <img src="https://blogfiles.pstatic.net/MjAyMDExMjVfMTk2/MDAxNjA2MzEyNDIzMTYz.usoHNZVk0RTF4irp7N9ln5OxjIexXnPVr4kKcficL_og.PG8pwrjTSlsBKdfzCrgHfAzcYkeqRRP9KfcVS16DBEUg.PNG.kimmin2_/SE-156c4746-b97f-4199-b528-5d04a4d75a27.png" width="30%">
+
+
 ---
 
 
