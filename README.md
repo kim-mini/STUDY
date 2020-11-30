@@ -134,3 +134,14 @@ pyqt5로 gui를 만들고 단위 환산기르 완성했다
 
 
 ---
+
+## 2020-11-30
+[2020-11-30 code](https://github.com/kim-mini/STUDY/tree/main/20201130)
+
+```
+딥러닝공부를 했다
+linearRegressionV2 코드를 분석해보았다
+
+사진편집프로그램을 완성했다
+다른 기능들은 차차 추가할 예정
+```
