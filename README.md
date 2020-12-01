@@ -145,3 +145,15 @@ linearRegressionV2 코드를 분석해보았다
 사진편집프로그램을 완성했다
 다른 기능들은 차차 추가할 예정
 ```
+
+---
+
+## 2020-12-01
+![[](https://github.com/kim-mini/STUDY/tree/main/20201201)](https://img.shields.io/badge/2020--12--01-code-red)
+
+```
+딥러닝 공부
+CNN공부를 했다 강아지인지 고양이인지 컴퓨터가 가려내도록 학습했다
+```
+
+<img src="https://postfiles.pstatic.net/MjAyMDEyMDFfMjc0/MDAxNjA2ODA1NTc4NTg3.j-UtA7rix_JPsmHEjpNpHCbvRwQyRxTS5qu0p_xyA0Ag.FSP7ramNxZrzlSL8_sl6TysufwzIXkZhFMLR4ReuMLUg.PNG.kimmin2_/image.png?type=w966" width="30%">
