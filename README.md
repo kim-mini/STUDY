@@ -149,7 +149,7 @@ linearRegressionV2 코드를 분석해보았다
 ---
 
 ## 2020-12-01
-![[](https://github.com/kim-mini/STUDY/tree/main/20201201)](https://img.shields.io/badge/2020--12--01-code-red)
+[![](https://img.shields.io/badge/2020--12--01-code-red)](https://github.com/kim-mini/STUDY/tree/main/20201201)
 
 ```
 딥러닝 공부
