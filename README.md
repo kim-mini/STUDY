@@ -157,3 +157,15 @@ CNN공부를 했다 강아지인지 고양이인지 컴퓨터가 가려내도록
 ```
 
 <img src="https://postfiles.pstatic.net/MjAyMDEyMDFfMjc0/MDAxNjA2ODA1NTc4NTg3.j-UtA7rix_JPsmHEjpNpHCbvRwQyRxTS5qu0p_xyA0Ag.FSP7ramNxZrzlSL8_sl6TysufwzIXkZhFMLR4ReuMLUg.PNG.kimmin2_/image.png?type=w966" width="30%">
+
+---
+
+## 2020-12-02
+
+[![](https://img.shields.io/badge/2020--12--02-code-red)](https://github.com/kim-mini/STUDY/tree/main/20201202)
+
+```
+딥러닝 공부
+Transfer learning을 공부했다
+여러 모델들 중에  VGG16, Xcaption을 공부했다
+```
