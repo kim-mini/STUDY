@@ -169,3 +169,13 @@ CNN공부를 했다 강아지인지 고양이인지 컴퓨터가 가려내도록
 Transfer learning을 공부했다
 여러 모델들 중에  VGG16, Xcaption을 공부했다
 ```
+
+---
+
+## 2020-12-03
+[![](https://img.shields.io/badge/20201203-code-red)](https://github.com/kim-mini/STUDY/tree/main/20201203)
+
+```
+딥러닝 공부
+kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
+```
