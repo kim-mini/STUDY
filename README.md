@@ -136,7 +136,11 @@ pyqt5로 gui를 만들고 단위 환산기르 완성했다
 ---
 
 ## 2020-11-30
+
+
 [2020-11-30 code](https://github.com/kim-mini/STUDY/tree/main/20201130)
+
+
 [2020-11-29 photoworks code](https://github.com/kim-mini/STUDY/tree/main/20201129)
 ```
 딥러닝공부를 했다
@@ -194,4 +198,12 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 
 ```
 알약프로젝트에 쓰일 pyqt ui디자인 제작
+```
+
+## 2020-12-08
+
+[2020-12-08 code](https://github.com/kim-mini/STUDY/tree/main/20201208)
+
+```
+캐글에서 Intel Image Classification에서 맘에 드는 코드를 해석해보았다
 ```
