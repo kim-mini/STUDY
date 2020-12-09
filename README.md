@@ -200,10 +200,26 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 알약프로젝트에 쓰일 pyqt ui디자인 제작
 ```
 
+---
+
+
 ## 2020-12-08
 
 [2020-12-08 code](https://github.com/kim-mini/STUDY/tree/main/20201208)
 
 ```
 캐글에서 Intel Image Classification에서 맘에 드는 코드를 해석해보았다
+```
+
+---
+
+## 2020-12-09
+
+[2020-12-09 code](https://github.com/kim-mini/Pill-Search/blob/main/study-code/5_4_visualizing_what_convnets_learn_ref.ipynb)
+
+```
+
+캐라스 창시자에게 배우는 딥러닝 5-4예제를 분석했다
+모델이 어느부분을 중점적으로 보고 분류를 하는지 시각화하는 방법에 대해 배웠다
+
 ```
