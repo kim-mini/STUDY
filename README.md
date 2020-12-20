@@ -241,3 +241,5 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 yolo dataset custaom하기!
 데이터를 모으는 행동을 간편화 하는 코드를 짰다
 ```
+
+---
