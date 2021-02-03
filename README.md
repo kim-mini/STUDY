@@ -11,8 +11,6 @@
   
  - [Algorithm](https://blog.naver.com/kimmin2_/222101710175)
  
-
- ---
  
  ### Linux
 
@@ -26,17 +24,18 @@
 - [SQLite / Flask](https://blog.naver.com/kimmin2_/222131011476)
    
 - [Datascience](https://m.blog.naver.com/PostList.nhn?blogId=kimmin2_&categoryNo=30)
----
+
+
 ### openCV
 
 - [openCV](https://blog.naver.com/kimmin2_)
 
----
+
 ### Cloud
 
 - [Cloud](https://blog.naver.com/kimmin2_/222130171476)
 
----
+
 ## Markdown
 
 - [Markdown](https://github.com/kim-mini/STUDY/blob/main/markdown.md)
@@ -55,19 +54,12 @@ openApi를 받아서 가져오는 코드를 분석해보았다
 ```
 
 
-
-
----
-
 ## 2020-11-16
 [2020-11-16 code](https://github.com/kim-mini/STUDY/tree/main/20201116)
 ```
 타이타닉의 탑승자들의 사망/생존의 예측하는 문제를 분석해보았다
 Scikit-learn에 대해 공부했다
 ```
-
-
----
 
 ## 2020-11-17
 [2020-11-17 code](https://github.com/kim-mini/STUDY/tree/main/20201117)
@@ -78,8 +70,6 @@ Numpy, pandas
 ```
 
 
----
-
 ## 2020-11-23
 [2020-11-23 code](https://github.com/kim-mini/STUDY/tree/main/20201123)
 ```
@@ -89,7 +79,6 @@ pyqt5 공부를 했다
 ```
 <img src ="https://postfiles.pstatic.net/MjAyMDExMjRfOTEg/MDAxNjA2MjExMjc1NTEy.SYPZYzlgpyCqecBvzqpqw4Dml-1_Dnb9wqhfh-w4_gMg.yJC1vw46zB59J1JVSs-aPWhBFtHvSZw20_uSUFIYMMgg.PNG.kimmin2_/image.png?type=w966" width="20%">
 
----
 
 ## 2020-11-24
 [2020-11-24 code](https://github.com/kim-mini/STUDY/tree/main/20201124)
@@ -99,7 +88,6 @@ pyqt5 공부를 했다
 ```
 <img src="https://postfiles.pstatic.net/MjAyMDExMjRfMjky/MDAxNjA2MjEwODg2NDY0.ll9QllKyBO2K7n5VzHW6TMoklalh332XDgAEQA3uyOsg.Gvu1LTh62Y-ZjG77bwwXr-hPSTheRL9JZEuLR74TBDsg.PNG.kimmin2_/image.png?type=w966" width="30%">
 
----
 
 ## 2020-11-25
 [2020-11-25 code](https://github.com/kim-mini/STUDY/tree/main/20201125)
@@ -109,7 +97,6 @@ digit clock을 만들고 배경색을 선택할수 있도록 했다
 단위환산하는 코드와 gui를 만들었다
 ```
 
----
 
 ## 2020-11-26
 [2020-11-26 code](https://github.com/kim-mini/STUDY/tree/main/20201126)
@@ -119,8 +106,6 @@ pyqt5로 gui를 만들고 단위 환산기르 완성했다
 ```
 <img src="https://blogfiles.pstatic.net/MjAyMDExMjVfMTk2/MDAxNjA2MzEyNDIzMTYz.usoHNZVk0RTF4irp7N9ln5OxjIexXnPVr4kKcficL_og.PG8pwrjTSlsBKdfzCrgHfAzcYkeqRRP9KfcVS16DBEUg.PNG.kimmin2_/SE-156c4746-b97f-4199-b528-5d04a4d75a27.png" width="30%">
 
-
----
 
 
 ## 2020-11-27
@@ -133,7 +118,6 @@ pyqt5로 gui를 만들고 단위 환산기르 완성했다
 <img src="https://blogfiles.pstatic.net/MjAyMDExMjdfMTEy/MDAxNjA2NDU3MjAwNjAy.HBsTSFrEny0O8tCmNy5h6JZdbp6D2pvSbgUuKljAZ7wg.EymtSQsyVKUaMWMrlVPgSBJ0F84oxtcWkW5K8cvzGFAg.PNG.kimmin2_/image.png" width="30%">
 
 
----
 
 ## 2020-11-30
 
@@ -150,7 +134,6 @@ linearRegressionV2 코드를 분석해보았다
 다른 기능들은 차차 추가할 예정
 ```
 
----
 
 ## 2020-12-01
 [![](https://img.shields.io/badge/2020--12--01-code-red)](https://github.com/kim-mini/STUDY/tree/main/20201201)
@@ -162,7 +145,6 @@ CNN공부를 했다 강아지인지 고양이인지 컴퓨터가 가려내도록
 
 <img src="https://postfiles.pstatic.net/MjAyMDEyMDFfMjc0/MDAxNjA2ODA1NTc4NTg3.j-UtA7rix_JPsmHEjpNpHCbvRwQyRxTS5qu0p_xyA0Ag.FSP7ramNxZrzlSL8_sl6TysufwzIXkZhFMLR4ReuMLUg.PNG.kimmin2_/image.png?type=w966" width="30%">
 
----
 
 ## 2020-12-02
 
@@ -174,7 +156,6 @@ Transfer learning을 공부했다
 여러 모델들 중에  VGG16, Xcaption을 공부했다
 ```
 
----
 
 ## 2020-12-03
 [![](https://img.shields.io/badge/20201203-code-red)](https://github.com/kim-mini/STUDY/tree/main/20201203)
@@ -183,7 +164,7 @@ Transfer learning을 공부했다
 딥러닝 공부
 kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 ```
----
+
 
 ## 2020-12-04
 
@@ -192,15 +173,13 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 미니프로젝트시작
 알약데이터 셋을 활용하여 알약의 특성을 선택하면 그에 해당하는 알약의 이미지 출력하는 프로그램을 만들고있다
 ```
----
+
 
 ## 2020-12-05
 
 ```
 알약프로젝트에 쓰일 pyqt ui디자인 제작
 ```
-
----
 
 
 ## 2020-12-08
@@ -211,7 +190,6 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 캐글에서 Intel Image Classification에서 맘에 드는 코드를 해석해보았다
 ```
 
----
 
 ## 2020-12-09
 
@@ -224,7 +202,6 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 
 ```
 
----
 
 ## 2020-12-10
 
@@ -233,7 +210,6 @@ kaggle의 dogs vs cats데이터셋을 이용해서 딥러닝을 연습했다
 웹크롤링 공부, 머신러닝을 다시 훑어봐야겠다
 ```
 
----
 
 ## 2020-12-16
 
@@ -242,7 +218,6 @@ yolo dataset custaom하기!
 데이터를 모으는 행동을 간편화 하는 코드를 짰다
 ```
 
----
 
 ## 2020-12-23
 
@@ -253,7 +228,6 @@ yolo custom data set을 만들어서 훈련시키고
 데이터 전처리의 중요성과 고됨(?)을 알게되었다
 ```
 
----
 
 ## 2020-12-29
 
@@ -262,3 +236,21 @@ yolo custom data set을 공부하면서 이미지 전처리 부분도 공부하�
 그래도 합성을 할 때 flame으로 해서 그런가 코드의 어떤 부분이 flame의 어떤기능인지 식별이 쉬웠다
 더 열심히 공부해서 코드로도 여러가지를 하고싶다!
 ```
+
+## 2021-02-03
+
+~~~
+이번주의 할일
+
+
+콜, 스캐쥴 클래스 형태로 변환
+전화 : 전화번호부 받아서 커스텀마이징을 위해
+데이터셋 업데이트
+바트 살펴보고 사용할 수 있는 능력 여부 판단하기
+
+인텐트 인식
+엔티티 인식
+전화번호부에 있는 이름 잘 가려내기
+근접 워드 가려내기(ex ) 김민이로 전화번호부에 저장이 되어있는데 '민이한테 전화걸어'라고 말을 해도 김민이한테 전화를 건다)
+사용자 전화번호부 이름을 가져왔을 때 0번 인덱스가 성씨라면 잘라버린다
+~~~
