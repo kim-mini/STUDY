@@ -276,3 +276,9 @@ yolo custom data set을 공부하면서 이미지 전처리 부분도 공부하�
 open cv play to pi camera
 object tracking / contours
 ~~~
+
+## 2021-02-10
+
+~~~
+pose 논문 읽고 이해하기
+~~~
