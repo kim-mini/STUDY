@@ -282,3 +282,9 @@ object tracking / contours
 ~~~
 pose 논문 읽고 이해하기
 ~~~
+
+## 2021-02-11
+
+~~~
+pose 이해하기
+~~~
